@@ -1,0 +1,16 @@
+com\taller1\Libraries\Files\File.class
+com\taller1\Libraries\Arrays\ChainOfCharacter\ChainOfCharacter.class
+com\taller1\Libraries\Arrays\JSON\JSON.class
+com\taller1\Libraries\Arrays\SuperArray\Element.class
+com\taller1\Libraries\Arrays\JSON\EnumJSON.class
+com\taller1\bancolombia\Turn.class
+com\taller1\Libraries\Menus\Menu.class
+com\taller1\bancolombia\Bancolombia.class
+com\taller1\Libraries\Files\Byte.class
+com\taller1\Libraries\Consoles\Console.class
+com\taller1\Libraries\Exceptions\MathException.class
+com\taller1\Libraries\Arrays\SuperArray\SuperArray.class
+com\taller1\Libraries\Exceptions\MenuException.class
+com\taller1\bancolombia\MenuBancolombia.class
+com\taller1\bancolombia\TransactionType.class
+com\taller1\bancolombia\User.class
